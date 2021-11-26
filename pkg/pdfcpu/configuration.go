@@ -23,7 +23,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
+	"github.com/gglazer/pdfcpu/pkg/font"
 )
 
 const (

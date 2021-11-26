@@ -21,8 +21,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/gglazer/pdfcpu/pkg/log"
+	"github.com/gglazer/pdfcpu/pkg/pdfcpu"
 )
 
 // BookletFromImages creates a booklet from images.

@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/gglazer/pdfcpu/pkg/api"
+	pdf "github.com/gglazer/pdfcpu/pkg/pdfcpu"
 )
 
 const (

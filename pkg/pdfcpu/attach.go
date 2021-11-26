@@ -22,8 +22,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/filter"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/gglazer/pdfcpu/pkg/filter"
+	"github.com/gglazer/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

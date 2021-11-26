@@ -24,7 +24,7 @@ import (
 	"time"
 	"unicode/utf16"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
+	"github.com/gglazer/pdfcpu/pkg/font"
 	"github.com/pkg/errors"
 )
 

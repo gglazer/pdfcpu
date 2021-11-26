@@ -25,8 +25,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+	"github.com/gglazer/pdfcpu/pkg/log"
+	pdf "github.com/gglazer/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 
